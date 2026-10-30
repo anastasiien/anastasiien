@@ -31,15 +31,11 @@ I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Scien
 - [**Serevia**](https://github.com/Anastasiien/serevia) 🧘 — iOS app for emotional well-being / iOS-приложение для отслеживания эмоционального состояния: психологические тесты, AI-классификация эмоций на CoreML, дневник настроения, 50+ unit-тестов и CI  
   [Repo](https://github.com/Anastasiien/serevia) 💻
 
-- [**Autonomous Taxi Simulation**](https://github.com/Anastasiien/java_lab3) 🚕 — Multithreaded taxi fleet simulation / Многопоточная симуляция таксопарка: диспетчер, очередь заказов, зарядка, синхронизация через ReentrantLock и Condition на Java  
-  [Repo](https://github.com/Anastasiien/java_lab3) 💻
-
-- [**My Collection**](https://github.com/Anastasiien/python) 📚 — Django web app for a personal library / Веб-приложение на Django для каталога книг и фильмов: авторизация, жанры, фильтры и сортировка  
-  [Repo](https://github.com/Anastasiien/python) 💻
-
 <details>
 <summary>More projects</summary>
 
+- [Autonomous Taxi Simulation](https://github.com/Anastasiien/java_lab3) 🚕 — Многопоточная симуляция таксопарка: диспетчер, очередь заказов, зарядка, синхронизация через ReentrantLock и Condition на Java  
+- [My Collection](https://github.com/Anastasiien/python) 📚 — Веб-приложение на Django для каталога книг и фильмов: авторизация, жанры, фильтры и сортировка  
 - [Mini Cloud](https://github.com/Anastasiien/laba_3) ☁️ — мини-хостинг виртуальных машин и контейнеров с тарификацией (Python, QEMU, Docker, Streamlit)
 - [TCP Server](https://github.com/Anastasiien/tcp-server-cpp) 🔌 — многопоточный TCP-сервер с собственным протоколом (C++)
 - [Pong](https://github.com/Anastasiien/Pong) 🏓 — аркада для iOS на UIKit Dynamics
