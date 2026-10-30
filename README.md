@@ -14,10 +14,8 @@
 <br/>
 </p>
 
-#### Привет! ✨
-Я Ася, студентка 3 курса НИУ ВШЭ Нижний Новгород (Прикладная математика и информатика + Программная инженерия). Учусь на треке «Рекомендательные системы и ИИ» совместно со Сбером, занимаюсь анализом данных и машинным обучением.
-
-*3rd-year CS student at HSE University: data analysis, classical ML and recommender systems.*
+#### Hi! ✨
+I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Science and Technologies programme: a double degree in Applied Mathematics and Informatics and Software Engineering. I'm on the "Recommender Systems & AI" track run together with Sber, and I work on data analysis and machine learning.
 
 #### Recent Projects 🌱
 
@@ -40,7 +38,7 @@
   [Repo](https://github.com/Anastasiien/python) 💻
 
 <details>
-<summary>Еще проекты</summary>
+<summary>More projects</summary>
 
 - [Mini Cloud](https://github.com/Anastasiien/laba_3) ☁️ — мини-хостинг виртуальных машин и контейнеров с тарификацией (Python, QEMU, Docker, Streamlit)
 - [TCP Server](https://github.com/Anastasiien/tcp-server-cpp) 🔌 — многопоточный TCP-сервер с собственным протоколом (C++)
