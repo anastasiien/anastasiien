@@ -46,8 +46,6 @@ I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Scien
 </details>
 
 #### Hackathons 🏆
-
-- **GORKYCODE 2026** — аналитик команды, кейс голосового ассистента
 - **ИННОГЛОБАЛХАК 2026 (Иннополис)** — кейс БАРС Груп «Корпоративный Telegram-бот»: RAG-бот, который отвечает на вопросы по документации
 
 | <b align="left">MY TECH STACK 🔧</b> |
