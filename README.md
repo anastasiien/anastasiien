@@ -1,9 +1,6 @@
 <p align="center">
 <br/>
 
-<a href="https://stepik.org/users/644309748">
-    <img src="https://img.shields.io/badge/Stepik-%238FA88F?style=for-the-badge&logo=simkl&logoColor=white">
-</a>
 <a href="mailto:berduginaanastasia03@gmail.com">
     <img src="https://img.shields.io/badge/email-%23B5838D?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -14,7 +11,6 @@
 <br/>
 </p>
 
-#### Hi! ✨
 I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Science and Technologies programme: a double degree in Applied Mathematics and Informatics and Software Engineering. I'm on the "Recommender Systems & AI" track run together with Sber, and I work on data analysis and machine learning.
 
 #### Recent Projects 🌱
