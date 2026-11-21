@@ -41,17 +41,17 @@ I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Scien
 
 </details>
 
-- [**Corporate Telegram Assistant (RAG)**](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 🤖 — Корпоративный Telegram-ассистент для поиска информации во внутренних документах компании: обработка PDF/DOCX, семантический поиск с лексическим rerank и генерация ответов с указанием источников.
-
+#### Hackathons 🏆
+- INNOGLOBALHACK 2026 (Innopolis)🤖 — Enterprise knowledge assistant in Telegram / Корпоративный Telegram-ассистент (RAG) для поиска информации во внутренних документах компании: обработка PDF/DOCX, семантический поиск с лексическим rerank и генерация ответов с указанием источников
   <details>
   <summary><strong>My role: RAG / Retrieval Engineer</strong></summary>
 
   - Разработала pipeline обработки документов: парсинг PDF/DOCX (текст, таблицы, скриншоты через llava/OCR), очистка от служебных артефактов, чанкинг ~450 символов с перекрытием и метаданными (источник, раздел, страница).
-  - Организовала семантический поиск в Qdrant: проиндексировала 7 корпоративных документов **1 671 чанк** с `multilingual-e5-small` (384 измерения), добавила инкрементальную переиндексацию по хешу файла.
+  - Организовала семантический поиск в Qdrant: проиндексировала 5 корпоративных документов с `multilingual-e5-small` (384 измерения), добавила инкрементальную переиндексацию по хешу файла.
   - Реализовала retrieval: векторный поиск + лексический rerank, фильтр по системе, порог уверенности (0.8359) с «мягкой зоной», настройка `Top-K`.
   - Оценила качество на тестовых и «ловушечных» вопросах: анализировала False Accept / False Reject и подобрала порог релевантности.
 
-  **Итог:** поиск работает с LLM через Ollama: передаётся контекст, ответы идут с источниками, при низкой релевантности бот отказывает.
+  **Итог:** найденный контекст и источники передаются в LLM-слой, при низкой релевантности бот отказывает.
 
   **Стек:** `Python`, `Qdrant`, `Ollama`, `multilingual-e5-small`, `RAG`, `FastAPI`, `Docker`.
 
@@ -60,10 +60,10 @@ I'm Asya, a 3rd-year student at HSE University (Nizhny Novgorod), Computer Scien
     - `ingest.py`, `qdrant_store.py` — индексация и работа с Qdrant.
     - `search.py` — поиск, ранжирование, порог.
     - `test_search.py`, `test_traps.py` — калибровка порога, FA/FR, ловушки.
-    - `test_pipeline.py`, `test_quality.py` — тесты пайплайна и ложных отказов.
   </details>
 
-  [Certificate](https://github.com/anastasiien/anastasiien/blob/main/%D0%91%D0%B5%D1%80%D0%B4%D1%8E%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%90.%D0%90..pdf) · [Repo](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 💻
+  [Certificate](https://github.com/anastasiien/anastasiien/blob/main/%D0%91%D0%B5%D1%80%D0%B4%D1%8E%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%90.%D0%90..pdf) 📜  [Repo](https://github.com/Yushhhik/CorporateKnowledgeAssistant) 💻
+
 
 | <b align="left">MY TECH STACK 🔧</b> |
 |---|
